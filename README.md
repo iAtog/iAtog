@@ -18,7 +18,6 @@ Plugins:<br>
 Currently head and founder of [Ancestry](https://github.com/AncestryCode)
 
 #### Stats:
-![iAtog's GitHub stats](https://github-readme-stats.vercel.app/api?username=iAtog&show_icons=true&theme=highcontrast)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iAtog&layout=compact)](https://github.com/iAtog/iAtog)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iAtog&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iATog&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iAtog&theme=github_dark) 
