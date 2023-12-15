@@ -3,8 +3,8 @@ Hi, I am a freelance programmer and use programming as a hobby.<br>
 I program spigot plugins and make JavaScript systems.<br><br>
 Things I am looking to learn:
 - [x] Java
-- [x] JavaScript CLI applications
-- [ ] C# syntax
+- [x] JavaScript
+- [ ] C#
 - [ ] Mobile applications
 - [ ] Playing the piano
 <br>
