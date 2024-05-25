@@ -4,12 +4,15 @@ I program spigot plugins and make JavaScript systems.<br><br>
 Things I am looking to learn:
 - [x] Java
 - [x] JavaScript
-- [ ] C#
-- [ ] Mobile applications
+- [x] Python
+- [ ] Go 
+- [x] C#
+- [x] Svelte
+- [x] html & css 
 - [ ] Playing the piano
 <br>
 You can see in my repositories my current works, I have several in private and in other organizations.<br>
-Plugins:<br>
+Spigot Plugins:<br>
 
 * [CharacterDialogue](https://github.com/iAtog/CharacterDialogue) [(link)](https://www.spigotmc.org/resources/95868/)
 * AutoGG (Not open-source)
@@ -20,5 +23,5 @@ Currently head and founder of [Ancestry](https://github.com/AncestryCode)
 
 #### Stats:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iAtog&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iATog&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iAtog&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iAtog&theme=github_dark) 
