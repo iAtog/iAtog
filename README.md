@@ -6,9 +6,8 @@ Things I am looking to learn:
 - [x] JavaScript
 - [x] Python
 - [ ] Go 
-- [x] C#
-- [x] Svelte
-- [x] html & css 
+- [x] C++
+- [x] HTML, CSS 
 - [ ] Playing the piano
 <br>
 You can see in my repositories my current works, I have several in private and in other organizations.<br>
@@ -18,8 +17,6 @@ Spigot Plugins:<br>
 * AutoGG (Not open-source)
 * khaly-core (Project soon to be made public)
 <br>
-
-Currently head and founder of [Ancestry](https://github.com/AncestryCode)
 
 #### Stats:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iAtog&theme=github_dark)
