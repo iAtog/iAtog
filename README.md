@@ -5,7 +5,7 @@ Things I am looking to learn:
 - [x] Java
 - [x] TypeScript
 - [x] Python
-- [ ] Go 
+- [x] Go 
 - [x] C++
 - [x] HTML, CSS 
 - [ ] Playing the piano
