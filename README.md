@@ -9,7 +9,7 @@ Programming languages I know:
 <br>
 Currently learning:
 - Go
-- 
+- Eaea
 <br>
 You can see in my repositories my current works, I have several in private and in other organizations.<br>
 Relevant repositories:<br>
