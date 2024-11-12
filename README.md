@@ -8,8 +8,7 @@ Programming languages I know:
 - [x] HTML, CSS
 <br>
 Currently learning:
-- Go
-- Eaea
+- [x] Go
 <br>
 You can see in my repositories my current works, I have several in private and in other organizations.<br>
 Relevant repositories:<br>
