@@ -6,7 +6,9 @@ Programming languages I know:
 - [x] TypeScript
 - [x] Python
 - [x] HTML, CSS
-<br>
+
+
+
 Currently learning:
 - [x] Go
 - [ ] Lang
