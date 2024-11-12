@@ -5,8 +5,9 @@ Programming languages I know:
 - [x] Java
 - [x] TypeScript
 - [x] Python
-- [x] Go 
-- [x] HTML, CSS 
+- [x] HTML, CSS
+Currently learning:
+- Go
 <br>
 You can see in my repositories my current works, I have several in private and in other organizations.<br>
 Relevant repositories:<br>
