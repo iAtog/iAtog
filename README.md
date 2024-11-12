@@ -7,11 +7,8 @@ Programming languages I know:
 - [x] Python
 - [x] HTML, CSS
 
-
-
 Currently learning:
 - [x] Go
-- [ ] Lang
 <br>
 You can see in my repositories my current works, I have several in private and in other organizations.<br>
 Relevant repositories:<br>
