@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=iAtog&color=brightgreen) <br>
 Hi, I am a freelance programmer and use programming as a hobby.<br>
-I program spigot plugins and make JavaScript systems.<br><br>
+
 Programming languages I know:
 - [x] Java
 - [x] TypeScript
