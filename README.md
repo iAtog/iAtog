@@ -13,7 +13,7 @@ Currently learning:
 You can see in my repositories my current works, I have several in private and in other organizations.<br>
 Relevant repositories:<br>
 
-* [CharacterDialogue](https://github.com/iAtog/CharacterDialogue) [(link)](https://www.spigotmc.org/resources/95868/) (A minecraft server plugin)
+* [CharacterDialogue](https://github.com/iAtog/character-dialogue) [(link)](https://www.spigotmc.org/resources/95868/) (A minecraft server plugin)
 * [Ranpang](https://github.com/iAtog/Ranpang) (A discord bot related to GuardianTales)
 * [khaly-core](https://github.com/KhalyRPG/rpg) (A plugin from a canceled project)
 <br>
