@@ -19,6 +19,17 @@ Relevant repositories:<br>
 <br>
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 23 April 2022 - To: 18 April 2025
+
+Java                   146 hrs 10 mins ████████████████▒░░░░░░░░   65.51 %
+Go                     28 hrs 11 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.64 %
+TypeScript             11 hrs 27 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
+Svelte                 8 hrs 46 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+JavaScript             8 hrs 21 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+```
+
 <!--END_SECTION:waka-->
 
 #### Stats:
