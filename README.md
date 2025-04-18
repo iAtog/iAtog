@@ -31,7 +31,7 @@ JavaScript             8 hrs 21 mins   █░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
+> Unfortunately I have not used wakatime in quite a few projects
 #### Stats:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iAtog&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iAtog&theme=github_dark)
