@@ -17,7 +17,8 @@ Relevant repositories:<br>
 * [Ranpang](https://github.com/iAtog/Ranpang) (A discord bot related to GuardianTales)
 * [khaly-core](https://github.com/KhalyRPG/rpg) (A plugin from a canceled project)
 <br>
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 #### Stats:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iAtog&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iAtog&theme=github_dark)
