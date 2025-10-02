@@ -21,13 +21,13 @@ Relevant repositories:<br>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 April 2022 - To: 29 September 2025
+From: 23 April 2022 - To: 30 September 2025
 
-Java                   151 hrs 51 mins █████████████▓░░░░░░░░░░░   55.12 %
-Go                     30 hrs 45 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 %
-TypeScript             27 hrs 54 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 %
-C#                     19 hrs 56 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
-JavaScript             9 hrs 7 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+Java                   151 hrs 51 mins █████████████▓░░░░░░░░░░░   54.68 %
+Go                     30 hrs 45 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 %
+TypeScript             30 hrs 8 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 %
+C#                     19 hrs 56 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
+JavaScript             9 hrs 7 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
 ```
 
 <!--END_SECTION:waka-->
