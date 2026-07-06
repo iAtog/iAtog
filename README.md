@@ -31,7 +31,7 @@ JavaScript             34 hrs 18 mins        █▒░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-> Unfortunately I have not used wakatime in quite a few projects
+[![GitHub Streak](https://streak-stats.demolab.com/?user=iAtog&theme=dark&hide_border=true)](https://git.io/streak-stats)
 #### Stats:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iAtog&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iAtog&theme=github_dark)
