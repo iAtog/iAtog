@@ -21,7 +21,7 @@ Relevant repositories:<br>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 April 2022 - To: 30 August 2026
+From: 23 April 2022 - To: 31 August 2026
 
 Java                   317 hrs 53 mins       ██████████▒░░░░░░░░░░░░░░   41.92 %
 TypeScript             190 hrs 35 mins       ██████▒░░░░░░░░░░░░░░░░░░   25.13 %
